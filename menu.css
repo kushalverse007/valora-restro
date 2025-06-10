@@ -1,0 +1,73 @@
+** {
+    margin: 0;
+    padding: 0;
+   }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    background: #fff8f0;
+    color: #333;
+  }
+  
+  header {
+    background: linear-gradient(90deg, #ff5722, #ff9800);
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  
+  header h1 {
+    font-size: 36px;
+  }
+  
+  header p {
+    margin-top: 8px;
+    font-size: 18px;
+  }
+  
+  .menu-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+  }
+  
+  .menu-section {
+    margin-bottom: 50px;
+  }
+  
+  .menu-section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #ff5722;
+    border-bottom: 3px solid #ff9800;
+    display: inline-block;
+    padding-bottom: 5px;
+  }
+  
+  .menu-items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .menu-card {
+    background: white;
+    padding: 20px;
+    border-radius: 15px;
+   font-weight: 600;
+    }
+  
+  .price {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #ff5722;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background: #222;
+    color: white;
+    font-size: 14px;
+  }
+  
